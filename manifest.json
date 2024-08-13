@@ -1,11 +1,11 @@
 {
-    "name": "finapp",
-    "short_name": "finapp",
+    "name": "FinApp",
+    "short_name": "FinApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "FinApp: Seu Assistente Pessoal para Gerenciamento Financeiro.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
